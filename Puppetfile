@@ -20,7 +20,7 @@ forge "http://forge.puppetlabs.com"
   mod 'puppetlabs/motd'
   mod 'puppetlabs/mysql'
   mod 'puppetlabs/ntp'
-  mod 'puppetlabs/puppet-authorization'
+  mod 'puppetlabs/puppet_authorization'
   mod 'puppetlabs/registry'
   mod 'puppetlabs/ruby'
   mod 'puppetlabs/stdlib'
