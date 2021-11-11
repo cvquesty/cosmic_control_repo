@@ -17,6 +17,7 @@ forge "http://forge.puppetlabs.com"
   mod 'puppetlabs/motd'
   mod 'puppetlabs/mysql'
   mod 'puppetlabs/ntp'
+  mod 'puppetlabs/cd4pe'
   mod 'puppetlabs/registry'
   mod 'puppetlabs/ruby'
   mod 'puppetlabs/stdlib'
